@@ -137,7 +137,7 @@ if convert_btn:
     else:
         st.error("❌ Invalid Conversion")
 
-st.markdown("### 📌 Example Conversions:")
+st.markdown("### Example Conversions:")
 st.markdown("- 1 Meter = 100 Centimeters")
 st.markdown("- 1 Kilogram = 1000 Grams")
 st.markdown("- 1 Hour = 60 Minutes")
