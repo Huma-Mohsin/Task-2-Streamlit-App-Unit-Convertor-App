@@ -114,7 +114,7 @@ unit_options = {
     "Time": ["Hours", "Minutes", "Seconds"],
 }
 
-st.markdown("## ⚖️ 🌡️ ⏳  Smart Unit Convertor App")
+st.markdown("## ⚖️ Smart Unit Convertor App ")
 st.info("Select a category and enter values to convert units instantly.")
 
 with st.container():
